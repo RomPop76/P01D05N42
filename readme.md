@@ -1,6 +1,6 @@
-Kurs Websamuraj część 1 
+Websamuraj course part 1 
 
-Dzień 5 numer 42
+Day 5 number 42/01
 
 -------------------
 
